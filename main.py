@@ -43,4 +43,4 @@ for hh_soup in hh_soups:
 
 
 with open("vacancies.json", "w", encoding="utf-8") as f:
-    json.dump(vacancies, f, ensure_ascii=False, indent=5)
+    json.dump(vacancies, f, ensure_ascii=False, indent=1)
