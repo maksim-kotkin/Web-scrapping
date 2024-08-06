@@ -1,0 +1,51 @@
+[
+     {
+          "вакансия": "Программист Python",
+          "ссылка": "https://spb.hh.ru/vacancy/104251163?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "вДоступе",
+          "город": "Москва"
+     },
+     {
+          "вакансия": "Разработчик Python",
+          "ссылка": "https://spb.hh.ru/vacancy/105334747?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "Группа компаний Астра",
+          "город": "Москва"
+     },
+     {
+          "вакансия": "Python Developer",
+          "ссылка": "https://spb.hh.ru/vacancy/103666745?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "ООО Тис-Центр",
+          "город": "Москва"
+     },
+     {
+          "вакансия": "Разработчик Python",
+          "ссылка": "https://spb.hh.ru/vacancy/105333150?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "ООО Форсайт",
+          "город": "Санкт-Петербург"
+     },
+     {
+          "вакансия": "Python-разработчик",
+          "ссылка": "https://spb.hh.ru/vacancy/104376421?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "Cedro Agency",
+          "город": "Москва"
+     },
+     {
+          "вакансия": "Преподаватель Python",
+          "ссылка": "https://spb.hh.ru/vacancy/101662924?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "до 100 000 ₽ до вычета налогов",
+          "название компании": "ЧУ ДО Московская школа программистов",
+          "город": "Москва"
+     },
+     {
+          "вакансия": "Python-разработчик",
+          "ссылка": "https://spb.hh.ru/vacancy/99280907?query=python&hhtmFrom=vacancy_search_list",
+          "зп": "зарплата не указана",
+          "название компании": "Hyperus",
+          "город": "Москва"
+     }
+]
